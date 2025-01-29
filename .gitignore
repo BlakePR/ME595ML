@@ -1,0 +1,7 @@
+*.data
+*.png
+*.txt
+*.html
+*.pdf
+
+autompg/
