@@ -4,5 +4,8 @@
 *.txt
 *.html
 *.pdf
+*.pt
+*.pth
+*.pyc
 
 autompg/
