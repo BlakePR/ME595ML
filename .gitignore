@@ -7,5 +7,7 @@
 *.pt
 *.pth
 *.pyc
-
+*.npy
+*midterm.ipynb
+*final.ipynb
 autompg/
