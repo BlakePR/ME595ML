@@ -8,6 +8,7 @@
 *.pth
 *.pyc
 *.npy
+tests/*
 *midterm.ipynb
 *final.ipynb
 autompg/
